@@ -10,6 +10,8 @@ public class Exercicio6 {
 		
 		System.out.println("Digite seu nome: ");
 		System.out.println("Seu nome é: " + scanner.nextLine());
+		
+		//teste
 
 	}
 
